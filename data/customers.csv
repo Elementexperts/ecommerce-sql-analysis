@@ -1,0 +1,11 @@
+customer_id,name,age,city,signup_date
+1,John Smith,32,New York,2023-01-12
+2,Emily Johnson,28,Los Angeles,2023-02-05
+3,Michael Brown,41,Chicago,2023-03-11
+4,Sarah Davis,35,Houston,2023-03-29
+5,David Wilson,29,New York,2023-04-14
+6,Linda Taylor,47,Miami,2023-05-02
+7,Chris Miller,38,Chicago,2023-05-17
+8,Ana Lopez,26,Seattle,2023-05-21
+9,Ethan White,30,Houston,2023-06-09
+10,Maria Garcia,33,Miami,2023-06-18
