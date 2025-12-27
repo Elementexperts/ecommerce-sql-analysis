@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product,category,price,quantity
+101,1,'2023-06-10','Laptop','Electronics',850,1
+102,2,'2023-06-11','Phone','Electronics',500,2
+103,3,'2023-06-15','Sneakers','Fashion',120,1
+104,1,'2023-06-17','Headphones','Electronics',80,2
+105,4,'2023-06-18','T-shirt','Fashion',25,3
+106,5,'2023-06-18','Backpack','Accessories',60,1
+107,3,'2023-06-20','Keyboard','Electronics',45,1
+108,6,'2023-06-21','Phone Case','Accessories',15,2
+109,7,'2023-06-23','Sneakers','Fashion',115,1
+110,8,'2023-06-24','Watch','Accessories',200,1
+111,9,'2023-06-25','Laptop','Electronics',900,1
+112,10,'2023-06-26','Tablet','Electronics',400,1
+113,2,'2023-06-28','Charger','Electronics',25,2
+114,5,'2023-06-29','Sandals','Fashion',30,1
+115,3,'2023-06-30','Phone','Electronics',499,1
