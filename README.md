@@ -1,5 +1,4 @@
 
-
 ## 📊 Dashboard Preview
 
 A visual dashboard was created in Excel to summarize insights clearly:
