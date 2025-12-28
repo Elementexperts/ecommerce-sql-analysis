@@ -1,3 +1,36 @@
+---
+
+## 📊 Dashboard Preview
+
+A visual dashboard was created in Excel to summarize insights clearly:
+
+<img src="images/dashboard_converted.png" width="650"/>
+
+---
+
+## 📄 Full Report (Download PDF)
+
+Click below to access the complete analysis report:
+
+👉 [**Download Report (PDF)**](reports/Nomoz_Ecommerce_Analytics_Report.pdf)
+
+The report includes:
+- SQL queries & outputs
+- Revenue analysis
+- Customer spend breakdown
+- Excel dashboard visualization
+- Business insights & conclusion
+
+---
+
+## 🔧 How to Run This Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Elementexperts/ecommerce-sql-analysis.git
+
+---
+
 # 📊 E-commerce Sales Analysis (SQL Project)
 
 This project analyzes e-commerce sales data using **SQL (SQLite + DBeaver)** to extract insights about revenue, customer behavior, and sales performance.  
