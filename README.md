@@ -120,3 +120,22 @@ SELECT strftime('%Y-%m', order_date) AS month,
 FROM orders
 GROUP BY month
 ORDER BY month ASC;
+
+##🔧 How to Run the Project
+
+git clone https://github.com/Elementexperts/ecommerce-sql-analysis.git
+
+Open database/ecommerce.db in DBeaver/SQLite Browser
+Run queries from sql/analysis.sql
+View dashboard inside Excel
+Read final report in /reports/
+
+---
+##📌 Author: Nomoz Fayzullaev
+
+📧 Email: fayzullaevnomoz@gmail.com
+
+📍 Uzbekistan
+
+⭐ If you found this project valuable, consider giving the repo a star!
+
